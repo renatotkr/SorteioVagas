@@ -1,0 +1,15 @@
+﻿Proposta de novo critério de distribuição de vagas
+
+Visando maior facilidade e igualdade na distribuição de vaga, propomos um novo sistema automatizado de distribuição de vaga que leva em consideração se a vaga é
+
+-Presa em vaga dupla 
+-Solta em vaga dupla
+-Solta ou individual
+
+O algoritmo funciona da seguinte forma
+
+-O sistema sorteará aleatoriamente os moradores que hoje estão em vagas presas em vagas soltas, 
+-Os inadimplentes serão sorteados nas vagas presas
+-Após isso as demais vagas serão sorteads
+
+Além disso, propomos uma rotatividade das vagas no período de 6 meses. Dessa forma, eliminamos cenário em que pessoas tem azar de tirar um vaga "ruim" e terem de ficar com ela por 2 anos.
